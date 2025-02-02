@@ -10,7 +10,7 @@ const [listProjects] = useState([
     des: 'currently working on a project name FellowSync',
     mission: 'Front-end Developer, system analysis and design',
     language: 'HTML5, CSS3, React JS,...',
-    images: '/project1.JPG '
+    images: '/project1.jpg'
   },
   
 
