@@ -8,7 +8,7 @@ return (
     <section ref={scrollTab} className='home'>
         <div className="content">
             <div className="name">
-                MY NAME IS <span>Balamurugan.T</span>
+                Myself <span>Balamurugan.T</span>
             </div>
             <div className="des">
                 {/* 30 */}
